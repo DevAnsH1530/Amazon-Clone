@@ -1,2 +1,3 @@
 # Amazon-Clone
 Amazon frontpage clone using HTML and CSS
+Creating an 'Amazon Frontpage Clone using HTML and CSS' is an engaging web development project that involves meticulously replicating the iconic design and layout of Amazon's homepage. Through this project, one can master the art of structuring web content using HTML and styling it with CSS to achieve a pixel-perfect resemblance to Amazon's user-friendly interface. This undertaking provides an excellent opportunity to enhance skills in responsive design, layout optimization, and attention to detail. I also came to know about various models that are used in CSS such as BOX MODEL, FLEX MODEL.
